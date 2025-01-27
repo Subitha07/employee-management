@@ -1,0 +1,16 @@
+#navbarNav {
+    background-color: #f8f9fa;  
+ }
+  
+#navbarNav .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 15px;
+  } 
+ 
+  
+#navbarNav .nav-link:hover {
+    background-color: #e9ecef;
+    border-radius: 7px;
+   
+  } 
+  
